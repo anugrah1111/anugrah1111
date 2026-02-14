@@ -15,7 +15,7 @@
 ## 🧰 Tech Stack:
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E11F21?style=for-the-badge&logo=oracle&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6A00?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
